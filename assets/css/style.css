@@ -1,0 +1,16 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+  background-color: #E83E8C;
+}
+
+.logo {
+  margin-left: 40px;
+}
+
+header {
+  padding-top: 10%;
+  font-weight: 700;
+}
