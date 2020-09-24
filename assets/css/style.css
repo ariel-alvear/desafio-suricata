@@ -5,3 +5,7 @@ body {
 .bg-pink {
   background-color: #E83E8C;
 }
+
+h1 {
+  font-weight: 700;
+}
